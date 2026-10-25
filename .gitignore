@@ -1,0 +1,17 @@
+# Python 产生的缓存，不用提交
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 虚拟环境（第 4 周学 venv 时会用到）
+.venv/
+venv/
+
+# 编辑器 / 系统文件
+.vscode/settings.json
+.idea/
+Thumbs.db
+desktop.ini
+
+# 运行输出
+*.log
